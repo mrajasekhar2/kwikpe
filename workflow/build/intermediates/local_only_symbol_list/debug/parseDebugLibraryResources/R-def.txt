@@ -1,0 +1,6 @@
+R_DEF: Internal format may change without notice
+local
+id login
+layout login
+layout success
+string app_name
